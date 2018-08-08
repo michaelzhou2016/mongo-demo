@@ -2,10 +2,3 @@ spring:
   data:
     mongodb:
       uri: mongodb://app_bill_rw:9240^XB4r82qd@10.139.60.166:27017,10.139.60.167:27017,10.139.60.168:27017/bill?replicaSet=rskkd
-  rabbitmq:
-    addresses: 10.10.17.35:5672,10.10.17.18:5672,10.10.16.76:5672
-    username: rabbitadmin
-    password: rabbitadmin
-    listener:
-      simple:
-        acknowledge-mode: MANUAL

@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mongo</groupId>
-	<artifactId>mongo4</artifactId>
+	<artifactId>mongo-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>mongo4</name>
+	<name>mongo-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

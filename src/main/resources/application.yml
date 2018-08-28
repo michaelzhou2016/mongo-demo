@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://app_bill_rw:9240^XB4r82qd@10.139.60.166:27017,10.139.60.167:27017,10.139.60.168:27017/bill?replicaSet=rskkd
+      uri: mongodb://app_ll_rw:9240^XB4r8bqd@10.139.60.166:27017,10.139.60.167:27017,10.139.60.168:27017/bill?replicaSet=rskkd
